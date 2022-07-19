@@ -5,12 +5,16 @@ background-color: brown;
 border-style: solid;
 border-color: black;
 text-align: center;
+text-decoration:underline;
 }
 
 .paragraph-section{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color:brown;
 background-color:antiquewhite;
+border-style: solid;
+
+
 }
 
 .image-section{ 
@@ -27,9 +31,15 @@ background-color:antiquewhite;
 
 .caption-section{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:peachpuff;
+    color:brown;
     background-color:rgba(10, 10, 10, 0.39);
     text-align:right;
+    border: 1px solid red;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color:bisque;
 }
 .gif-section{ text-align:right;
 }
