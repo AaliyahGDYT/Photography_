@@ -10,9 +10,13 @@ background-color:antiquewhite;
 
 }
 
-.list-section{
+.list-section{color:rgb(10, 29, 197);
+    background-color: black;
 
 }
-body{
-background-color:brown;
+
+.caption-section{
+    background-color:rgba(235, 54, 30, 0.39);
+}
+body{background-image: url("https://media4.giphy.com/media/798oH0WDEQnicM4857/giphy.gif");
 }
