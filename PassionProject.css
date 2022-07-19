@@ -1,22 +1,54 @@
 .top-section{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:antiquewhite;
 background-color: brown;
 }
 
 .paragraph-section{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:brown;
 background-color:antiquewhite;
 }
 
-.image-section{
+.image-section{ 
+    text-align: left;
 
 }
 
-.list-section{color:rgb(10, 29, 197);
+.list-section{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(157, 197, 10);
     background-color: black;
+
 
 }
 
 .caption-section{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(235, 220, 19);
     background-color:rgba(235, 54, 30, 0.39);
+    text-align:left;
 }
-body{background-image: url("https://media4.giphy.com/media/798oH0WDEQnicM4857/giphy.gif");
+.gif-section{ text-align:left;
+
+}
+
+.link-section{ 
+    text-align: center;
+
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/32/61/23/326123f5c65701663579f1311b81900d.gif");
+background-size: 100%;
+}
+
+ul{text-align: center;
+
+
+}
+
+
+
+
+h3{
+    text-align: center;
 }
