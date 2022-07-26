@@ -46,9 +46,11 @@ text-align: top;
 
 
 .gif-section{ text-align:left;
-    
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlNlqNoMZH_EWvfKrakUQLm99_2n3mmS25A&usqp=CAU);
+background-repeat:no-repeat;
+background-size: 100%;
 }
+
 
 .link-section{ 
     text-align:top;
@@ -71,7 +73,7 @@ button{background-color:brown;
 
 }
 
-body{
+body{background-color: blueviolet;
     
 
 ul{color:brown;
