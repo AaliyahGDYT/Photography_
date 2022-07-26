@@ -49,8 +49,11 @@ text-align: top;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlNlqNoMZH_EWvfKrakUQLm99_2n3mmS25A&usqp=CAU);
 background-repeat:no-repeat;
 background-size: 100%;
+text-align: center;
 }
 
+
+}
 
 .link-section{ 
     text-align:top;
