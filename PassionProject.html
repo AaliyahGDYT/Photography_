@@ -100,18 +100,12 @@
 
 
 </div>
-<div class="image-section">
-<img src="myphoto.jpg" style="width:450px;height:550px;">
-<p><em>Ocean picture ... by me!</em></p>
-</div>
 
 
 
 
-<div class="my-picture">
-<img src = "Sunset.jpg"alt="The moon" style="width:450px; height:550px;"/>
-<p><i>Lovely sunset , taken by me.</i></p>
-</div>
+
+
 
 
 
@@ -119,13 +113,51 @@
 <div class="gif-section">
 <img src ="https://y.yarn.co/4d779ce1-0770-4589-b974-a092b64a5692_text.gif"/>
 </div>
-
-
-
-
-
+<!--Carousel-->
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="myphoto.jpg" class="d-block w-100" alt="Ocean" style="width:450px; height:550px;">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>A ocean picture took by me!</h5>
+        <p>My favorite type of picture.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="sunset2.jpg" class="d-block w-100" alt="Sunset" style="width:450px; height:550px;">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>A Beautiful Sunset</h5>
+        <p>This picture was taken at Belle Isle.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="sunset3.jpg" class="d-block w-100" alt="Sunset" style="width:450px; height:550px;">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Sunset</h5>
+        <p>I love taking pictures of the Sunset.</p>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
 </div>
 
+
+
+
+
+<!--END-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 </html>

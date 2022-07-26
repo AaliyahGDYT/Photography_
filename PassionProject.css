@@ -6,7 +6,7 @@ background-color: brown;
 border-style: solid;
 border-color: black;
 text-align: center;
-text-decoration:overline;
+
 }
 .sunset-section{text-align:left;
 
@@ -76,7 +76,7 @@ button{background-color:brown;
 }
 
 body{
-    background-color:lightsalmon;
+    background-color:hsl(17, 100%, 74% 0.6);
 }
 
 ul{color:brown;
