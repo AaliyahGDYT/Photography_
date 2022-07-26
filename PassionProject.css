@@ -19,7 +19,7 @@ text-align: center;
 .paragraph-section{
     font-family:Bradley Hand, cursive;
     color:brown;
-background-color:hsl(16, 100%, 67%, 0.9);
+background-color:#eb7b64e6;
 text-align: justify;
 
 
@@ -45,8 +45,9 @@ text-align: top;
 
 
 
-.gif-section{ text-align:center;
-    vertical-align:middle ;
+.gif-section{ text-align:left;
+    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlNlqNoMZH_EWvfKrakUQLm99_2n3mmS25A&usqp=CAU);
 }
 
 .link-section{ 
@@ -71,8 +72,7 @@ button{background-color:brown;
 }
 
 body{
-    background-color:hsl(17, 100%, 74% 0.6);
-}
+    
 
 ul{color:brown;
     text-align: center;
