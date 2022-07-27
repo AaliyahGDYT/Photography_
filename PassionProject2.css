@@ -20,6 +20,7 @@ border-color: whitesmoke;
 
 
 body{
-    background-color:rgb(148, 43, 43);
-    background-clip: border-box;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTok1MrrCP30ZEP89YlfrGuRrehFS23WppOvA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size:500%;
 }
